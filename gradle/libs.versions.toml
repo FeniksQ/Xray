@@ -1,6 +1,6 @@
 [versions]
 agp = "9.1.1"
-parcelize="2.3.20"
+parcelize="2.3.21"
 ksp = "2.3.6"
 androidxActivityKtx = "1.13.0"
 androidxCoreKtx = "1.18.0"
